@@ -21,7 +21,7 @@ int main() {
     } else {
         printf("\nUsuario ou senha incorretos!\n");
     }
-
+/*  Versão modificada na branch sistema-de-login para teste de merge.*/
     return 0;
 }
  
